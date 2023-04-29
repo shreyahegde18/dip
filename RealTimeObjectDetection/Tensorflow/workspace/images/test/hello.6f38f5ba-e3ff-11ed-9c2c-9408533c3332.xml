@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.6f38f5ba-e3ff-11ed-9c2c-9408533c3332.jpg</filename>
+	<path>C:\Users\shrey\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.6f38f5ba-e3ff-11ed-9c2c-9408533c3332.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>311</ymin>
+			<xmax>505</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

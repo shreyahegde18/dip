@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.96bcca31-e3ff-11ed-8eef-9408533c3332.jpg</filename>
+	<path>C:\Users\shrey\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks.96bcca31-e3ff-11ed-8eef-9408533c3332.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>306</ymin>
+			<xmax>399</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>
